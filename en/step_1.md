@@ -1,8 +1,14 @@
 ## Introduction
 
-In this project, <mark> short project description </mark>
+CoderDojo is a global movement of free, volunteer-led, community-based programming clubs, called Dojos. Young people aged seven to seventeen can visit a Dojo where they can learn with the support of volunteers to code, build a website, create an app or a game, and explore technology in an informal, creative, and social environment.
 
-<mark>Boxout (wherever wanted/needed) </mark>
+Once completed you should:
++ Understand the different roles volunteers have in a Dojo
++ Understand what mentoring means at a Dojo
++ Recognise different mentoring styles used at a Dojo
++ Know a little about the most popular coding languages used in Dojos
++ Know what resources are available to support mentors
+
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Term**</span> description of term or interesting phrase.
@@ -17,7 +23,7 @@ You will:
 
 --- no-print ---
 --- task ---
-### Try it
+### Roles within a Dojo
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
 Description of what to do or think about when looking at the example.
