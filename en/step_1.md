@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project, <mark> short project description </mark>
+CoderDojo is a global movement of free, volunteer-led, community-based programming clubs, called Dojos. Young people aged seven to seventeen can visit a Dojo where they can learn with the support of volunteers to code, build a website, create an app or a game, and explore technology in an informal, creative, and social environment.
 
 <mark>Boxout (wherever wanted/needed) </mark>
 
